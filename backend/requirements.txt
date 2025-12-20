@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+sqlalchemy
+pydantic
+prophet
+scikit-learn
+python-dateutil
